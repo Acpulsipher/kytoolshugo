@@ -1,2 +1,2 @@
 # kytoolshugo
-hugo files to generate site test!!
+hugo files to generate site
